@@ -1,0 +1,15 @@
+{
+  "name": "canvasfirstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "message":"typescript in global",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"live-server",
+    "tsc":"tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
